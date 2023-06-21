@@ -1,3 +1,6 @@
+//Laily Medha's Gudetama Project
+//image source: https://screenrant.com/gudetama-eggcellent-adventure-trailer-sanrio-netflix-show/
+
 #version 3.7;
 global_settings{ assumed_gamma 1.0 }
 #default{ finish{ ambient 0.1 diffuse 0.9 }} 
